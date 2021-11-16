@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c31ce8c4-6354-fb09-8941-3142f6e1a61e": {
+      "ProjectGuid": "c31ce8c4-6354-fb09-8941-3142f6e1a61e",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "b5d244d9-d942-9aba-c6f9-a507d2324c52": {
+      "ProjectGuid": "b5d244d9-d942-9aba-c6f9-a507d2324c52",
+      "DisplayName": "Unity.VisualStudio.Editor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
